@@ -3,7 +3,7 @@
 # **LinkedIn Post Generator**  
 An AI-powered tool that analyzes a LinkedIn influencer’s past posts and generates new ones in their unique writing style. 🚀  
 
-![image](https://github.com/user-attachments/assets/18d1661b-797f-4d15-a359-eb0d15b15504)
+![image](https://github.com/user-attachments/assets/5553a74d-95b0-4db2-811f-8d602eb0cef6)
 
 ## **Overview**  
 Imagine Saral, a LinkedIn influencer, who wants to maintain consistency in his posts but struggles with ideas or phrasing. This tool takes his previous posts, extracts essential elements like topics, tone, and structure, and then generates fresh posts that align with his style.  

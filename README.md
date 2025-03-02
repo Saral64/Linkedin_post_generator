@@ -39,9 +39,12 @@ Follow these steps to get started:
 ---
 
 ## **License & Usage**  
-🔒 **MIT License** – Open-source for personal and educational use. Commercial use is not allowed.  
+🔒 MIT License – This project is licensed under the MIT License. While the code is open source under the MIT License (which allows commercial use), please refer to the disclaimer below for details regarding the use of integrated services.
 
-📌 **Copyright (C) Saral Rastogi. All rights reserved.**  
+📌 Copyright (C) Saral Rastogi. All rights reserved.
+
+Disclaimer
+This project integrates with GroqCloud's Llama-3.3-70b-Versatile model for AI-powered functionality. While the code in this repository is licensed under the MIT License, the use of GroqCloud's services, including the Llama-3.3-70b-Versatile model, is governed by GroqCloud's Terms of Service and Licensing Agreements (https://console.groq.com/docs/legal). Users of this project must comply with GroqCloud's Terms of Service and Licensing Agreements when accessing and using these services.
 
 ---
 

@@ -39,7 +39,7 @@ Follow these steps to get started:
 ---
 
 ## **License & Usage**  
-🔒 **MIT License** – Open-source for personal and educational use. Commercial use requires prior written permission from the author. Proper attribution is mandatory in all distributions.  
+🔒 **MIT License** – Open-source for personal and educational use. Commercial use is not allowed.  
 
 📌 **Copyright (C) Saral Rastogi. All rights reserved.**  
 
